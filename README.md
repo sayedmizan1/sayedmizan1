@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning backend 
 - 💞️ I’m looking to collaborate on web development company
-- 📫 How to reach me instagram sayed_mizan_
+- 📫 How to reach me instagram sayedmizann
 
 <!---
 sayedmizan1/sayedmizan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
