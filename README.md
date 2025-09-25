@@ -46,13 +46,13 @@
 
 ## 📌 Featured Projects  
 
-### 🔹 [MentorMatch – Mentorship Platform](#)  
+### 🔹 [MentorMatch – Mentorship Platform](mentormatchs.netlify.app)  
 > Full-stack mentorship system with **real-time chat, session scheduling, community, and analytics**.  
 
 ### 🔹 [SIP Investment Guide – GenAI App](https://partyrock.aws/u/sayedmizan/2TRkAB-dp/new-app-2TRkAB-dp)  
 > AI-driven **SIP planner** with personalized recommendations and live market updates.  
 
-### 🔹 [Fitness Q&A Chatbot](#)  
+### 🔹 [Fitness Q&A Chatbot](https://github.com/sayedmizan1/Conversational-Q-A-Fitness-Chatbot)  
 > **Azure OpenAI + LangChain + FAISS** chatbot for health & fitness recommendations.  
 
 ---
